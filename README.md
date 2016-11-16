@@ -1,2 +1,1 @@
-# Tutorial
-Demo Store Project
+# Huong dan co ban
